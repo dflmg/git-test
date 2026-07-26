@@ -2,3 +2,5 @@ apple
 香蕉
 椰子
 测试
+hello world
+what is the purpose of life 
